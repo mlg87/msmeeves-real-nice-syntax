@@ -9,7 +9,7 @@
     "msmeeve",
     "fall"
   ],
-  "repository": "https://github.com/atom/msmeeves-real-nice-syntax",
+  "repository": "https://github.com/mlg87/msmeeves-real-nice-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
