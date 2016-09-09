@@ -1,0 +1,17 @@
+{
+  "name": "msmeeves-real-nice-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "bored with old themes. DESPERATELY needed something for fall",
+  "keywords": [
+    "syntax",
+    "theme",
+    "msmeeve",
+    "fall"
+  ],
+  "repository": "https://github.com/atom/msmeeves-real-nice-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
